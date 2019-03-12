@@ -1,0 +1,17 @@
+﻿<flash_project name="아트웍 로드부품들 만들기" version="1">
+    <project_file path="./load.fla" filetype="fla" profile="" />
+    <project_file path="./load_5.fla" filetype="fla" profile="" />
+    <project_file path="./load_1.fla" filetype="fla" profile="" />
+    <project_file path="./load_2.fla" filetype="fla" profile="" />
+    <project_file path="./load_3.fla" filetype="fla" profile="" />
+    <project_file path="./load_4.fla" filetype="fla" profile="" />
+    <project_file path="../새 디자인.psd" filetype="psd" />
+    <project_file path="../load 부품들/그림자2.psd" filetype="psd" />
+    <project_file path="../artwork.swf" filetype="swf" />
+    <project_file path="../artwork.fla" filetype="fla" profile="" />
+    <project_file path="./load_8.fla" filetype="fla" profile="" />
+    <project_file path="./load_6.fla" filetype="fla" profile="" />
+    <project_file path="./load_7_sub.fla" filetype="fla" profile="" />
+    <project_file path="./load_7.fla" filetype="fla" profile="" />
+    <project_file path="./load_9.fla" filetype="fla" profile="" />
+</flash_project>
